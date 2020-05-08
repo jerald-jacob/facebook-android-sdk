@@ -1,0 +1,2 @@
+rootProject.name='Facebook-android-sdk'
+include ':app'
